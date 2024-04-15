@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header]
 
 <h2 align="center">Ciao, sono Alessio Pellegrino! 👋</h2>
 
